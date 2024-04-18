@@ -8,13 +8,13 @@
 ## File Descriptions:
 
 - `main.py`: The main script containing the implementation of the Monte Carlo simulation, including functions for calculating spin vectors, energy, and magnetization.
-- `data.dat`: Output file containing simulation results.
+- `location_to_save_file`: Output file containing simulation results.
 
 ## Usage:
 
 - Ensure Python and NumPy are installed.
 - Run `main.py`.
-- Simulation results will be saved in the `data.dat` file.
+- Simulation results will be saved in the `location_to_save_file` file.
 
 ## Methodology:
 
